@@ -1,6 +1,6 @@
 # Obelisk Club — privacy-first Mac & iOS apps
 
-**[obelisk.club](https://obelisk.club)** is a catalog of 250+ small, focused apps for Mac, iPhone, iPad, and Apple Watch, built by [Peter Zhang](https://github.com/peterzhang0216).
+**[obelisk.club](https://obelisk.club)** is a catalog of 130+ small, focused apps for Mac, iPhone, iPad, and Apple Watch, plus 170+ free browser tools that never upload your files, built by [Peter Zhang](https://github.com/peterzhang0216).
 
 Every app follows the same rules: **runs on-device, needs no account, tracks nothing, and is a one-time purchase — never a subscription.**
 
@@ -53,6 +53,30 @@ Every app follows the same rules: **runs on-device, needs no account, tracks not
 | [Regexly](https://obelisk.club/regextester) | iOS | Regex tester |
 | [Nexum](https://obelisk.club/postgresqlclient) | macOS | PostgreSQL client |
 | [Braceful](https://obelisk.club/jsonformatter) | iOS | JSON formatter |
+
+## Free browser tools
+
+Everything runs in your browser; files are never uploaded. All of them live at **[obelisk.club/tools](https://obelisk.club/tools)**.
+
+| Tool | What it does |
+|---|---|
+| [HEIC to JPG](https://obelisk.club/tools/heic-to-jpg) | Convert iPhone photos to JPG, PNG or WebP, in batches |
+| [Compress Image](https://obelisk.club/tools/compress-image) | Shrink JPG, PNG and WebP files |
+| [Remove EXIF](https://obelisk.club/tools/remove-exif) | Strip location and camera data from photos |
+| [Compress PDF](https://obelisk.club/tools/compress-pdf) | Make a PDF smaller |
+| [Merge PDF](https://obelisk.club/tools/merge-pdf) | Combine PDF files in the order you choose |
+| [Compress Video](https://obelisk.club/tools/compress-video) | Reduce a video's file size |
+| [Video to GIF](https://obelisk.club/tools/video-to-gif) | Turn a clip into an animated GIF |
+| [JSON Formatter](https://obelisk.club/tools/json-formatter) | Format and validate JSON |
+
+## Guides
+
+Tested, first-hand write-ups from the [blog](https://obelisk.club/blog):
+
+- [Filee on Mac: a free offline file converter, tested](https://obelisk.club/blog/filee-offline-file-converter-mac)
+- [Mole on Mac: the free cleaner CLI, tested safely](https://obelisk.club/blog/mole-mac-cleaner-cli-tested)
+- [What is CRF in video compression?](https://obelisk.club/blog/crf-video-compression-explained)
+- [A practical guide to sips, the built-in macOS image tool](https://obelisk.club/blog/macos-sips-command-line-guide)
 
 **Browse the full catalog → [obelisk.club](https://obelisk.club)** · Blog: [obelisk.club/blog](https://obelisk.club/blog)
 
