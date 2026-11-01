@@ -1,6 +1,6 @@
 # Obelisk Club — privacy-first Mac & iOS apps
 
-**[obelisk.club](https://obelisk.club)** is a catalog of 130+ small, focused apps for Mac, iPhone, iPad, and Apple Watch, plus 170+ free browser tools that never upload your files, built by [Peter Zhang](https://github.com/peterzhang0216).
+**[obelisk.club](https://obelisk.club)** is a catalog of small, focused apps for Mac, iPhone, iPad, and Apple Watch, plus free browser tools that never upload your files, built by [Peter Zhang](https://github.com/peterzhang0216).
 
 Every app follows the same rules: **runs on-device, needs no account and tracks nothing.** Paid features are mostly a one-time unlock; a few apps (SnapPro, PhotoBridge, ShotKit, NearBeam) also offer an optional subscription next to a lifetime purchase.
 
