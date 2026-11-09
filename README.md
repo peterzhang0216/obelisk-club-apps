@@ -147,7 +147,7 @@ Tested, first-hand write-ups from the [blog](https://obelisk.club/blog):
 | [Lumio](https://obelisk.club/lumio) | iOS | Quick everyday camera |
 | [Luxmo](https://obelisk.club/luxmo) | iOS | Light meter for photographers |
 | [Peekmeta](https://obelisk.club/peekmeta) | iOS | Read & export photo EXIF data |
-| [PhotoBridge](https://obelisk.club/photobridge) | iOS | Backup & Restore · NAS · S3 |
+| [PhotoBridge](https://obelisk.club/photobridge) | iOS | Private photo backup & restore |
 | [PixScrub](https://obelisk.club/pixscrub) | iOS | See the EXIF, then wipe it |
 | [QuickPix](https://obelisk.club/quickpix) | macOS | Shrink images, keep quality |
 | [QuickVid](https://obelisk.club/quickvid) | macOS | Three modes, HEVC or H.264 |
@@ -197,7 +197,7 @@ Tested, first-hand write-ups from the [blog](https://obelisk.club/blog):
 | [Fastura](https://obelisk.club/fastura) | iOS | Precision Fasting Timer |
 | [Filewise](https://obelisk.club/filewise) | macOS | Change format, icons & PDF |
 | [Fillframe](https://obelisk.club/fillframe) | iOS | Keep the whole frame, no crop |
-| [Frameloom](https://obelisk.club/frameloom) | iOS | One video, seven platforms |
+| [Frameloom](https://obelisk.club/frameloom) | iOS | Separate framing per platform |
 | [Gladbox](https://obelisk.club/gladbox) | iOS | Instant Gratitude Capture |
 | [Glance Away](https://obelisk.club/glance-away) | iOS | Screen Break Timer & Rest |
 | [HashForge](https://obelisk.club/hashforge) | iOS | MD5 & SHA hashes, verified |
@@ -207,8 +207,8 @@ Tested, first-hand write-ups from the [blog](https://obelisk.club/blog):
 | [Kanjika](https://obelisk.club/kanjika) | macOS | Instant kanji meanings offline |
 | [Magnes](https://obelisk.club/magnes) | iOS | Magnetic Field Meter |
 | [Metaless](https://obelisk.club/metaless) | iOS | Strip photo metadata, offline |
-| [NetLoom](https://obelisk.club/netloom) | iOS | Batch IP lists and ranges |
-| [Numeral X](https://obelisk.club/numeral-x) | iOS | Scan numerals with the camera |
+| [NetLoom](https://obelisk.club/netloom) | iOS | Lists, ranges and CIDR blocks |
+| [Numeral X](https://obelisk.club/numeral-x) | iOS | Aim the camera, read numerals |
 | [Passphrasely](https://obelisk.club/passphrasely) | iOS | Private, offline, no account |
 | [Pixform](https://obelisk.club/pixform) | iOS | Convert images on device |
 | [Pixveil](https://obelisk.club/pixveil) | iOS | Wipe chosen categories in bulk |
@@ -231,7 +231,7 @@ Tested, first-hand write-ups from the [blog](https://obelisk.club/blog):
 | [Umbrio](https://obelisk.club/umbrio) | iOS | Darkroom Print Timer |
 | [Unitto](https://obelisk.club/unitto) | iOS | Convert units, offline & fast |
 | [Unixly](https://obelisk.club/unixly) | iOS | Batch epochs to CSV or JSON |
-| [Vincula](https://obelisk.club/vincula) | iOS | Roman numeral converter |
+| [Vincula](https://obelisk.club/vincula) | iOS | Design dates, export cards |
 | [ZoneFlip](https://obelisk.club/zoneflip) | iOS | World clocks at a glance |
 
 **Browse the full catalog → [obelisk.club](https://obelisk.club)** · Blog: [obelisk.club/blog](https://obelisk.club/blog)
